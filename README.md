@@ -1,4 +1,4 @@
-# The Flying Cube Game!
+# The Flying Cube Game
 
 > If you are accessing this repo from the [Open source bootcamp org](https://github.com/open-source-bootcamp) then please do not raise any PRs against this repo - this is a template designed to be used in events like the open source bootcamp, and you should raise issues against repos created during your event using this as a template. Only riase issues if they would enhance the ability to use this as a template repo.
 
@@ -24,6 +24,24 @@ If you're new to Babylon JS that's fine to! Here are some helpful links to help 
 We've also provided a file that should support launching from VS Code that will allow you to integrate your debugging experience there as well as a [devcontainer](https://code.visualstudio.com/docs/remote/create-dev-container) you can use to develop in if you choose with some recommended extensions pre-installed.
 
 This project is intended as a sandbox for you to learn about GitHub and contributing to Open Source. We're accepting most changes in support of that!
+
+## Project Structure
+
+The project is consists of the following
+
+* img folder contains all textures used in the game
+* src folder contains the following javascript code
+  * barrier.js - implements obstactle object
+  * contants.js - all global enums and constants
+  * game-object.js - base game object
+  * game.js - launch game with Bablon
+  * hud.js - display and manage score
+  * mainmenu.js 
+  * player.js - player object state and behavior
+  * scene.js
+  * state-manager.js
+* index.html - Initial landing page
+* main.js - Remove??? Superficial
 
 ## Aknowledgements
 

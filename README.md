@@ -30,7 +30,7 @@ This project is intended as a sandbox for you to learn about GitHub and contribu
 The project is consists of the following
 
 * img folder contains all textures used in the game
-* src foler contains the following javascript code
+* src folder contains the following javascript code
   * barrier.js - implements obstactle object
   * contants.js - all global enums and constants
   * game-object.js - base game object

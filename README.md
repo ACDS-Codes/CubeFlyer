@@ -28,3 +28,15 @@ This project is intended as a sandbox for you to learn about GitHub and contribu
 ## Aknowledgements
 
 All the code in this repo was written by [Sam Wronski](https://github.com/runewake2).
+
+## To run the project locally using git command prompt
+
+Step 1 : create a fork of a project by clicking at the top right hand fork button
+
+Step 2 : click on the "<> Code" and copy the git url for this code
+
+Step 3 : open up command prompt
+
+Step 4 : type 'git clone << url >>' and hit enter and wait for download to finish
+
+Step 5 : double click on 'index.html' and the game should launch in your default browser.

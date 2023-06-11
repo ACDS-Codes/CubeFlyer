@@ -1,4 +1,4 @@
-# The Flying Cube Game!
+# The Flying Cube Game
 
 > If you are accessing this repo from the [Open source bootcamp org](https://github.com/open-source-bootcamp) then please do not raise any PRs against this repo - this is a template designed to be used in events like the open source bootcamp, and you should raise issues against repos created during your event using this as a template. Only riase issues if they would enhance the ability to use this as a template repo.
 
@@ -27,6 +27,36 @@ This project is intended as a sandbox for you to learn about GitHub and contribu
 ## Project Structure
 * img - picuture
 
+## Project Structure
+
+The project is consists of the following
+
+* img folder contains all textures used in the game
+* src folder contains the following javascript code
+  * barrier.js - implements obstactle object
+  * contants.js - all global enums and constants
+  * game-object.js - base game object
+  * game.js - launch game with Bablon
+  * hud.js - display and manage score
+  * mainmenu.js 
+  * player.js - player object state and behavior
+  * scene.js
+  * state-manager.js
+* index.html - Initial landing page
+* main.js - Remove??? Superficial
+
 ## Aknowledgements
 
 All the code in this repo was written by [Sam Wronski](https://github.com/runewake2).
+
+## To run the project locally using git command prompt
+
+Step 1 : create a fork of a project by clicking at the top right hand fork button
+
+Step 2 : click on the "<> Code" and copy the git url for this code
+
+Step 3 : open up command prompt
+
+Step 4 : type 'git clone << url >>' and hit enter and wait for download to finish
+
+Step 5 : double click on 'index.html' and the game should launch in your default browser.

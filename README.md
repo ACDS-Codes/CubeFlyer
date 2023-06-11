@@ -29,7 +29,7 @@ This project is intended as a sandbox for you to learn about GitHub and contribu
 
 All the code in this repo was written by [Sam Wronski](https://github.com/runewake2).
 
-## To run the project locally.
+## To run the project locally using git command prompt
 
 Step 1 : create a fork of a project by clicking at the top right hand fork button
 
